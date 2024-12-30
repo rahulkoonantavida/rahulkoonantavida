@@ -1,8 +1,5 @@
 ## 👋 Hi! I'm Rahul (@rahulkoonantavida)
-- 🔭 I’m currently working on developing my foundational skills as an engineer.
-- 🌱 I’m currently learning about full stack development and efficiently utilizing A.I. in modern applications.
-- 👯 I’m looking to collaborate on impactful projects, no matter how big or small.
-- 🤔 I’m looking for help with venturing into the open source development community.
+- 🌱 I’m currently learning about artificial intelligence.
 - 📫 Email: rahulkoonantavida [at] gmail [dot] com
 
 <!--
